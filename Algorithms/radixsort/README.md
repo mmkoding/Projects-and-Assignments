@@ -1,0 +1,1 @@
+This code implements radix sort for sorting an array of strings. It utilizes a counting sort as a subroutine to sort digit slices of the strings. The radix sort loops through the strings digit-by-digit using the counting sort. After full passes over all digits, the strings are sorted. The code tests it on an array of 10 random strings and prints the iteration count.

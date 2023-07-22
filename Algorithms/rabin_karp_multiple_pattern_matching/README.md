@@ -1,0 +1,1 @@
+This code implements the Rabin-Karp algorithm to find all occurrences of multiple pattern strings within a text. It uses polynomial rolling hash functions and preprocesses the patterns to hash them into buckets. During search, it hashes segments of the text and checks matched buckets for pattern matches.

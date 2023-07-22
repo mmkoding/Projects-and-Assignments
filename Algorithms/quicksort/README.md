@@ -1,0 +1,1 @@
+This code implements three different sorting algorithms - classic quicksort, hoare partition quicksort, and three-way quicksort. It tests each algorithm on a small array of 8 unsigned short integers. The code prints out metrics like number of swaps and comparisons along with the sorted array after running each algorithm.
