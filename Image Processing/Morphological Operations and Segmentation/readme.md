@@ -1,0 +1,1 @@
+This code implements object counting and image segmentation techniques. For object counting, it thresholds and morphologically processes images to count connected components. For segmentation, it implements mean shift clustering and normalized cuts graph partitioning methods. Boundary overlays are extracted to highlight segment borders.
