@@ -10,4 +10,5 @@ This code implements a database and interface for a vaccination tracking system.
 - Calculating average doses for elderly users
 - Updating user eligibility after time since last dose
 - Deleting vaccines by name
+
 The implementation handles connecting to the database and provides SQL queries to perform the required operations on the tables. This allows abstracting the database operations behind a simple interface to facilitate developing vaccination tracking features in a modular way.
