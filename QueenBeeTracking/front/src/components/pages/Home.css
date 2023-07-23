@@ -1,0 +1,44 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  background-color: #333;
+  color: #fff;
+  height: 100vh; /* Added this line */
+}
+
+.form-input {
+  margin: 2em 0;
+  padding: 2em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #444;
+  color: #fff;
+}
+
+.form-button {
+  margin: 1em 0;
+  padding: 1em 2em;
+  background-color: hsl(36, 100%, 48%);
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .form-button {
+    font-size: 0.8em;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+  .form-button {
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 901px) {
+  .form-button {
+    font-size: 1.2em;
+  }
+}

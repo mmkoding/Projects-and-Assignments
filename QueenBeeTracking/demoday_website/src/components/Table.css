@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+table {
+border-collapse: collapse;
+width: 50%;
+margin-bottom: 1rem;
+}
+
+thead {
+background-color: #f2f2f2;
+}
+
+th,
+td {
+border: 1px solid #000000;
+padding: 0.5rem;
+text-align: center;
+}
+
+th {
+background-color: #ff8400;
+font-weight: bold;
+}
+
+th:first-child,
+td:first-child {
+text-align: left;
+font-weight: normal;
+}
+
+th:first-child {
+border-top: 1px solid #000000;
+}
+
+th:last-child,
+td:last-child {
+border-right: 1px solid #000000;
+}

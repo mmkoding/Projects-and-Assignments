@@ -1,0 +1,51 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5px solid rgb(230, 227, 227);
+    height: 50px;
+    background-color: white;
+  
+    .logo {
+      font-size: 20px;
+      font-weight: bold;
+      color: #ccc;
+      padding-left: 20px;  // Added this line
+    }
+  
+    ul {
+      display: flex;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+  
+      li {
+        display: flex;
+        align-items: center;
+        padding: 0 10px;
+        cursor: pointer;
+  
+        &:hover {
+          background-color: #ece8ff;
+        }
+
+        &:last-child { // Added this block
+            padding-right: 50px;
+          }
+  
+        .icon {
+          font-size: 18px;
+          color: #7451f8;
+        }
+  
+        a {
+          font-size: 13px;
+          font-weight: 600;
+          color: #888;
+          margin-left: 10px;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+  

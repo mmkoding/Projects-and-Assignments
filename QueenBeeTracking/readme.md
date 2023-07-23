@@ -1,0 +1,1 @@
+This folder includes 2 web applications that were developed for our project. Demoday website is the application for presenting our project whereas the front folder includes the front-end of the project's main web application
