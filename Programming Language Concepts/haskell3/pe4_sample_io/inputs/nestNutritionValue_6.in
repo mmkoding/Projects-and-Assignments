@@ -1,0 +1,1 @@
+nestNutritionValue $ Nestree Empty [Nestree QueensChambers [Nestree (Nursery 5 0) [Nestree Empty [Nestree Tunnel [Nestree Tunnel [], Nestree (SeedStorage 5) [Nestree (Nursery 0 7) []]]]]]]

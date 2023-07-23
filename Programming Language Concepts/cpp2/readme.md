@@ -1,0 +1,1 @@
+This code implements a Puzzle class representing a puzzle grid using a quadtree structure. It includes Piece, Edge, and Puzzle classes. The Puzzle uses recursive decomposition into quadrants, storing Pieces in leaf nodes. Methods are provided for placing Pieces, retrieving Pieces, cropping sub-puzzles, etc. Test code constructs a sample Puzzle from Pieces and prints it.

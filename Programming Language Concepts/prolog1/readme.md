@@ -1,0 +1,1 @@
+This code implements a movie knowledge base and query predicates in Prolog. The kb.pl file contains facts about movies with attributes like title, director, release year, and award nominations. The main.pl file defines predicates to query the movie kb and retrieve facts like a movie's director, total awards nominated, movies by a director, etc.

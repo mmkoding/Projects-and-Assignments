@@ -1,0 +1,1 @@
+pathToQueen $ Nestree (SeedStorage 7774) [Nestree (Nursery 7247 3010) [Nestree (SeedStorage 4374) [Nestree (Nursery 9725 6836) [Nestree QueensChambers []]]]]

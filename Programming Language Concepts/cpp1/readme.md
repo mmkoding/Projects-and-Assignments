@@ -1,0 +1,1 @@
+This code implements a HighSpeedTrain class to represent train routes and timing in C++. It includes constructors, overloads for output streaming, addition to combine routes, and comparison operators to order trains. Member variables store source, destination, and ETA. Methods are provided to get the details of a train object. Test code shows basic usage and output.

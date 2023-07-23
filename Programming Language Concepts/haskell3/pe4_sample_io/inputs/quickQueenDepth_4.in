@@ -1,0 +1,1 @@
+quickQueenDepth $ Nestree (SeedStorage 87) [Nestree Tunnel [Nestree (SeedStorage 39) [], Nestree (SeedStorage 10) [], Nestree Empty [], Nestree Tunnel [Nestree Tunnel [Nestree (Nursery 63 30) [Nestree (Nursery 1 18) [], Nestree QueensChambers [], Nestree Empty [Nestree (SeedStorage 30) [], Nestree Empty [], Nestree (SeedStorage 91) [Nestree (SeedStorage 5) []]]]]]]]

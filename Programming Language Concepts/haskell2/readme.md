@@ -1,0 +1,1 @@
+This code processes robot navigation paths to analyze field coverage. It converts direction strings to vector moves, builds full paths from starting points, filters paths to stay in bounds, identifies remaining unvisited points, and calculates average path length. The main functions are getVector, producePath, takePathInArea, remainingObjects, and averageStepsInSuccess.

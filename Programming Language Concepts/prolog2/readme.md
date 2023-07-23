@@ -1,0 +1,1 @@
+This code implements a salad ingredient knowledge base and predicates to query it in Prolog. kb.pl defines facts about salad ingredients and dietary restrictions. main.pl defines predicates to determine salad types, find salads a person can eat, generate valid salad orders, and count salads by type.

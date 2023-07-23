@@ -1,0 +1,1 @@
+pathNutritionValues $ Nestree (Nursery 56 41) [Nestree (Nursery 7 2) [], Nestree (Nursery 92 5) [], Nestree (SeedStorage 8) [], Nestree Tunnel [Nestree Empty [Nestree (SeedStorage 91) [], Nestree (Nursery 79 15) [], Nestree (Nursery 64 44) [Nestree Empty []]]]]

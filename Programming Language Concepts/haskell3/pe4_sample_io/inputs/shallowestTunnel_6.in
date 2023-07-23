@@ -1,0 +1,1 @@
+shallowestTunnel $ Nestree (SeedStorage 8) [Nestree Empty [Nestree (SeedStorage 0) [Nestree Empty [], Nestree (SeedStorage 6) [Nestree QueensChambers [Nestree (Nursery 3 3) [Nestree Tunnel [], Nestree (Nursery 7 1) [Nestree Tunnel []]]]]]]]
